@@ -6,5 +6,3 @@ permalink: /about/
 
 齊藤 信臣 (さいとう のぶたか) のページです．
 私のプロフィールなどを紹介します．
-
-[jekyll-organization]: https://github.com/jekyll

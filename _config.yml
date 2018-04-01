@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 齊藤信臣のページ
-email: snobutaka_iwtb(at)icloud.com
+email: nobutaka.saitoh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   齊藤 信臣 (さいとう のぶたか) のページです．
 baseurl: "" # the subpath of your site, e.g. /blog
